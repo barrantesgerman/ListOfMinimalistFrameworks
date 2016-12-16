@@ -6,7 +6,7 @@ A list of minimalist frameworks (simple and lightweight). All in alphabetical or
 * [Framework for CSS](#framework-for-css)
 * [Web Framework for C](#web-framework-for-c)
 * [Database framework for PHP](#database-framework-for-php)
-* [Frameworks for Front-end JS](#frameworks-for-front-end-js)
+* [Frameworks for Front-end JS](#frameworks-for-front-endresponsablecss-js)
 * [Web framework for Go](#web-framework-for-go)
 * [Web framework for Haskell](#web-framework-for-haskell)
 * [Web framework for Java](#web-framework-for-java)
@@ -21,11 +21,12 @@ A list of minimalist frameworks (simple and lightweight). All in alphabetical or
 * [Web framework for .NET (C#)](#web-framework-for-net-c)
 
 ## Framework for CSS
-Use http://refresh-sf.com/yui/ to compress, and get size "after compression and gzip"/1024 = KiB
+Use http://refresh-sf.com/yui/ to compress, and get size "Output"
 
 Name | Minimum size (base) | Repository | License
 --- | --- | --- | ---
 [Atatonic](http://atatonic.timbenniks.nl/) | 5.1 KiB (minified) | http://code.google.com/p/atatonic-css-framwork/ | [MIT](http://opensource.org/licenses/mit-license.php)
+[Avalanche](http://colourgarden.net/avalanche/) | 79 bytes | https://github.com/colourgarden/avalanche/ | [MIT](http://opensource.org/licenses/mit-license.php)
 [Base](http://git.io/base) | 2.95 KiB (minified + gzipped) | https://github.com/matthewhartman/base | [MIT](http://opensource.org/licenses/mit-license.php)
 [Bass](http://www.basscss.com/) | 3.79 KiB (minified + gzipped) | https://github.com/jxnblk/basscss | [MIT](http://opensource.org/licenses/MIT)
 [Bijou](http://andhart.github.io/bijou) | 1.065 KiB (minified and gzipped) | https://github.com/andhart/bijou | [MIT](http://opensource.org/licenses/mit-license.php)
@@ -35,14 +36,14 @@ Name | Minimum size (base) | Repository | License
 [Concrete](http://davidlumley.github.io/concrete/) | 3.2 KiB | https://github.com/davidlumley/concrete | [MIT](http://opensource.org/licenses/MIT)
 [iceCream](http://html5-ninja.com/icecream/) | 1.8 Kib (minified) | http://html5-ninja.com/icecream/ | [WTFPL](https://en.wikipedia.org/wiki/WTFPL)
 [KNACSS](http://knacss.com/) | 13.2 KiB (all modules) | https://github.com/raphaelgoetter/KNACSS | [WTFPL](https://en.wikipedia.org/wiki/WTFPL)
-[Kube](http://imperavi.com/kube/) | 15.2 KiB | https://github.com/sashka/kube | Unknown
+[Kube](http://imperavi.com/kube/) | 15.2 KiB | https://github.com/sashka/kube | [MIT](http://opensource.org/licenses/MIT)
 [Milligram](http://milligram.github.io/) | 2.0 KiB (minified and gzipped) | https://github.com/milligram/milligram | [MIT](http://opensource.org/licenses/MIT)
 [Min](http://minfwk.com/) | 0.9 KiB (minified and gzipped) | https://github.com/owenversteeg/min | [MIT](http://opensource.org/licenses/MIT)
 [Mistype](https://github.com/ZDroid/mistype) | 2.1 KiB | https://github.com/ZDroid/mistype | [MIT](http://opensource.org/licenses/MIT)
 [Picnic CSS](http://www.picnicss.com/) | 3.0 KiB (minified and gzipped) | https://github.com/picnicss/picnic | [MIT](http://opensource.org/licenses/MIT)
 [PocketGrid](http://arnaudleray.github.io/pocketgrid/) | 0.5 KiB | https://github.com/arnaudleray/pocketgrid | [MIT](http://opensource.org/licenses/MIT)
 [Pure](http://purecss.io/) | 4.3 KiB (gzipped) | https://github.com/yui/pure | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
-[Responsable](http://responsablecss.com/) | 2.63 KiB (minified and gzipped) | https://github.com/Responsable/Responsable-Framework | [CC-BY-SA](http://creativecommons.org/licenses/by-sa/2.5/)
+[Responsable](https://github.com/Responsable/Responsable-Framework) | 2.63 KiB (minified and gzipped) | https://github.com/Responsable/Responsable-Framework | [CC-BY-SA](http://creativecommons.org/licenses/by-sa/2.5/)
 [RocketCSS](https://rocketcss.com/) | 6.4 KiB | https://github.com/RocketCSS/RocketCSS | [MIT](http://opensource.org/licenses/MIT)
 [Simple Grid](http://thisisdallas.github.io/Simple-Grid/) | 1.1 KiB | https://github.com/ThisIsDallas/Simple-Grid | Unknown
 [Skeleton](http://getskeleton.com/) | 1.63 KiB (minified and gzipped) | https://github.com/dhg/Skeleton | [MIT](http://opensource.org/licenses/MIT)
@@ -99,6 +100,8 @@ Name | Repository | License
 [Blade](http://bladejava.com/) | https://github.com/biezhi/blade | [Apache License V2](http://opensource.org/licenses/apache-2.0)
 [JFinal](https://www.gitbook.com/book/jfinal/jfinal-manual/details) | https://github.com/jfinal/jfinal | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Jodd](http://jodd.org/) | https://github.com/oblac/jodd | [BSD-2](https://opensource.org/licenses/BSD-2-Clause)
+[Jooby](http://jooby.org/) | https://github.com/jooby-project/jooby | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
+[Molecule](http://molecule.vtence.com) | https://github.com/testinfected/molecule | [MIT](https://vtence.mit-license.org)
 [Ninja Framework](http://www.ninjaframework.org/) | https://github.com/ninjaframework/ninja | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Pippo](http://pippo.ro/) | https://github.com/decebals/pippo | [Apache License V2](http://opensource.org/licenses/apache-2.0)
 [Play Framework](http://www.playframework.com/) | https://github.com/playframework/playframework | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
@@ -160,6 +163,7 @@ Name | Repository | License
 [Lumen](https://lumen.laravel.com/)| https://github.com/laravel/lumen | [MIT](http://opensource.org/licenses/MIT)
 [MicroMVC](http://micromvc.com/) | https://github.com/Xeoncross/MicroMVC | [MIT](http://opensource.org/licenses/MIT)
 [Nanite](http://nirix.github.io/nanite/) | https://github.com/nirix/nanite | [LGPLv3](https://www.gnu.org/licenses/lgpl.html)
+[Opulence](https://www.opulencephp.com/)| https://github.com/opulencephp/Opulence | [MIT](http://opensource.org/licenses/MIT)
 [One PHP](http://oneframework.net/)| https://github.com/juliomatcom/one-php-microframework | [MIT](http://opensource.org/licenses/MIT)
 [Phalcon Framework](http://phalconphp.com/en/) | https://github.com/phalcon/cphalcon | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
 [PolyFramework](http://polymedio.github.io/polyframework/) | https://github.com/polymedio/polyframework | [BSD3](http://opensource.org/licenses/BSD-3-Clause)
@@ -181,6 +185,7 @@ Name | PIP Install | Repository | License
 [Bobo](http://bobo.digicool.com/) | pip install bobo | https://github.com/zopefoundation/bobo | [ZPL 2.1](https://en.wikipedia.org/wiki/Zope_Public_License)
 [Bottle](http://bottlepy.org/docs/dev/) | \[sudo\] pip install bottle | https://github.com/defnull/bottle | [MIT](https://en.wikipedia.org/wiki/MIT_License)
 [CherryPy](http://www.cherrypy.org/) | pip install CherryPy | https://bitbucket.org/cherrypy/cherrypy/overview | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
+[Clastic](https://github.com/mahmoud/clastic/) | pip install clastic | https://github.com/mahmoud/clastic | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [Cyclone](http://cyclone.io/) | pip install cyclone | https://github.com/fiorix/cyclone | [Apache License 2.0](http://www.apache.org/licenses/)
 [Flask](http://flask.pocoo.org/) | pip install Flask | https://github.com/mitsuhiko/flask | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [Fresco](http://ollycope.com/software/fresco/) | pip install fresco | https://bitbucket.org/ollyc/fresco | [Apache License 2.0](http://www.apache.org/licenses/)
